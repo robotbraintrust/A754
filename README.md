@@ -6,3 +6,5 @@ Hello there!
 This is a line of text
 
 another line of text
+
+This should push a notification to the server
